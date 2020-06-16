@@ -1,0 +1,3 @@
+public class YellowWorld{
+System.out.primtln("Yellow World");
+}
