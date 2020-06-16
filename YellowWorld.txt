@@ -1,3 +1,4 @@
 public class YellowWorld{
+System.out.primtln("Let's print Yellow World");
 System.out.primtln("Yellow World");
 }
