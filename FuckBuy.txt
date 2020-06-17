@@ -1,0 +1,3 @@
+public class FuckBuy{
+System.out.println("Fuck you world");
+}
