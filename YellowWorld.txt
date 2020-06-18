@@ -6,4 +6,5 @@ System.out.primtln("Yellow Girl");
 System.out.primtln("New Blue Girl");
 System.out.primtln("New Blue Cat");
 System.out.primtln("Green Sun Lights");
+Gg gg = new Gg(3);
 }
