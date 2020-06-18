@@ -1,9 +1,9 @@
 public class YellowWorld{
-System.out.primtln("Let's print Yellow World");
-System.out.primtln("Yellow World");
-System.out.primtln("Yellow Cat");
-System.out.primtln("Yellow Girl");
-System.out.primtln("New Blue Girl");
-System.out.primtln("New Blue Cat");
+System.out.primtln("Let's print Yellow World!");
+System.out.primtln("Yellow World's here");
+System.out.primtln("Welcome Yellow Cat");
+System.out.primtln("Welcome Yellow Girl");
+System.out.primtln("What's this? New Blue Girl?");
+System.out.primtln("What's this? New Blue Cat?");
 System.out.primtln("Green Sun Lights");
 }
