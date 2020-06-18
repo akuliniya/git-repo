@@ -1,0 +1,3 @@
+public class FurFurFox{
+System.out.println("What does the Fox says?")
+}
