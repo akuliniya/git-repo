@@ -1,3 +1,4 @@
 public class FurFurFox{
 System.out.println("What does the Fox says?")
+System.out.println("Fur-fur-fur-fur-fur! Fur-fur-fur-fur-fur!")
 }
