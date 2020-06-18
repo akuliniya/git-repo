@@ -1,6 +1,6 @@
 public class Gg{
 int times;
-final String SOUND = "Gg";
+final String SOUND = "Ggg";
 
 public Gg(int times){
 this.times=times;
