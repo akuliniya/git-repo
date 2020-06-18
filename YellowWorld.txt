@@ -3,5 +3,4 @@ System.out.primtln("Let's print Yellow World");
 System.out.primtln("Yellow World");
 System.out.primtln("Yellow Cat");
 System.out.primtln("Yellow Girl");
-System.out.primtln("Green Sun");
 }
