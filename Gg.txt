@@ -1,0 +1,11 @@
+public class Gg{
+int times;
+final String SOUND = "Gg";
+
+public Gg(int times){
+this.times=times;
+for (int i=0, i<3, i++){
+	System.out.print(SOUND);
+}
+}
+}
