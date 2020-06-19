@@ -1,0 +1,3 @@
+public class FatCat{
+System.out.println("Fat Cat eats much");
+}

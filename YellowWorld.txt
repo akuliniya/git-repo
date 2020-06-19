@@ -7,4 +7,5 @@ System.out.primtln("What's this? New Blue Girl?");
 System.out.primtln("What's this? New Blue Cat?");
 System.out.primtln("Green Sun Lights");
 Gg gg = new Gg(3);
+Gg gg = new Gg(4);
 }
