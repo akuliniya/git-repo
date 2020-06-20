@@ -1,0 +1,3 @@
+public class Passion{
+System.out.print("Passion");
+}

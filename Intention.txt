@@ -1,0 +1,3 @@
+private class Intention{
+System.out.print("Intense");
+}

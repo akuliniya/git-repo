@@ -1,0 +1,3 @@
+public class Love{
+System.out.print("Love");
+}
